@@ -1,0 +1,24 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl MI_KB3D_MTM_PlantsHTC
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd MI_KB3D_MTM_PlantsHTC_baseColor.png
+map_Bump -bm 1.000000 MI_KB3D_MTM_PlantsHTC_normal.png
+
+newmtl MI_KB3D_MTM_WoodOldD
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd MI_KB3D_MTM_WoodOldD_baseColor.jpeg
+map_Bump -bm 1.000000 MI_KB3D_MTM_WoodOldD_normal.png
